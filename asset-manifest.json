@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d94b8f27.chunk.css",
+    "main.js": "/static/js/main.6523d090.chunk.js",
+    "main.js.map": "/static/js/main.6523d090.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c539b70.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c539b70.js.map",
+    "static/js/2.59b35025.chunk.js": "/static/js/2.59b35025.chunk.js",
+    "static/js/2.59b35025.chunk.js.map": "/static/js/2.59b35025.chunk.js.map",
+    "static/js/3.93e922c2.chunk.js": "/static/js/3.93e922c2.chunk.js",
+    "static/js/3.93e922c2.chunk.js.map": "/static/js/3.93e922c2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d94b8f27.chunk.css.map": "/static/css/main.d94b8f27.chunk.css.map",
+    "static/js/2.59b35025.chunk.js.LICENSE.txt": "/static/js/2.59b35025.chunk.js.LICENSE.txt",
+    "static/media/Guardian.c46eca81.png": "/static/media/Guardian.c46eca81.png",
+    "static/media/buscador.9fd2df19.png": "/static/media/buscador.9fd2df19.png",
+    "static/media/cv-Eduardo.aafa6050.pdf": "/static/media/cv-Eduardo.aafa6050.pdf",
+    "static/media/fondo3.cf29156c.jpg": "/static/media/fondo3.cf29156c.jpg",
+    "static/media/foto_CV.083ea2b7.jpg": "/static/media/foto_CV.083ea2b7.jpg",
+    "static/media/musify1.cacee2bf.png": "/static/media/musify1.cacee2bf.png",
+    "static/media/musify2.0d2d9e25.png": "/static/media/musify2.0d2d9e25.png",
+    "static/media/portada.0c38cffc.png": "/static/media/portada.0c38cffc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c539b70.js",
+    "static/js/2.59b35025.chunk.js",
+    "static/css/main.d94b8f27.chunk.css",
+    "static/js/main.6523d090.chunk.js"
+  ]
+}
